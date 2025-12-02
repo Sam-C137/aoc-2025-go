@@ -1,7 +1,10 @@
 package main
 
-import day1 "github.com/Sam-C137/aoc-2025-go/cmd/day-1"
+import (
+	_ "github.com/Sam-C137/aoc-2025-go/cmd/day-1"
+	day2 "github.com/Sam-C137/aoc-2025-go/cmd/day-2"
+)
 
 func main() {
-	day1.Run()
+	day2.Run()
 }
