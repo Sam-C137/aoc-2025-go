@@ -6,9 +6,10 @@ import (
 	_ "github.com/Sam-C137/aoc-2025-go/cmd/day-3"
 	_ "github.com/Sam-C137/aoc-2025-go/cmd/day-4"
 	_ "github.com/Sam-C137/aoc-2025-go/cmd/day-5"
-	day6 "github.com/Sam-C137/aoc-2025-go/cmd/day-6"
+	_ "github.com/Sam-C137/aoc-2025-go/cmd/day-6"
+	day7 "github.com/Sam-C137/aoc-2025-go/cmd/day-7"
 )
 
 func main() {
-	day6.Run()
+	day7.Run()
 }
